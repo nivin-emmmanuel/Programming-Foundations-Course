@@ -1,0 +1,31 @@
+<h1> Buttons with div practice </h1>
+<div id="div1">
+  Here is div 1
+</div>
+<div id="div2">
+  Here is div 2
+</div2>
+
+
+
+h1
+{
+  font-family: arial;
+  color: blue;
+}
+div
+{
+  width: 140pt;
+  padding: 5pt;
+  margin: 10pt;
+  border: 1px solid lightgray;
+  font-size: 18pt;
+}
+#div1
+{
+  background-color: lightsteelblue;
+}
+#div2
+{
+  background-color: yellow;
+}
