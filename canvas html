@@ -1,0 +1,8 @@
+<canvas id="can">
+  </canvas>
+<p>
+  Filename: 
+  <input type="text" id="finput" >
+  <input type="button" value="upload" onclick="upload()" >
+</p>
+  
