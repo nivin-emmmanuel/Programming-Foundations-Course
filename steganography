@@ -1,4 +1,5 @@
-//steganography
+//steganography project for programming foundations course 
+//hiding one image in another
 function clearbits(colorval)
 {
     var x = Math.floor(colorval/16)*16;
