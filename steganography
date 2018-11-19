@@ -1,1 +1,6 @@
 //steganography
+function clearbits(colorval)
+{
+    var x = Math.floor(colorval/16)*16;
+    return x;
+}
