@@ -1,4 +1,4 @@
-// write your code here
+// selecting files javascript sample
 function upload()
 {
     var fileinput = document.getElementById("finput");
