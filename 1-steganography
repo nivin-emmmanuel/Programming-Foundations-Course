@@ -1,6 +1,5 @@
 //steganography project for programming foundations course 
-//hiding one image in another only
-// enryption part
+//hiding one image in another, only the enryption part
 function clearbits(colorval)
 {
     var x = Math.floor(colorval/16)*16;
